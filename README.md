@@ -14,7 +14,7 @@
 ### 1. Клонируйте репозиторий
 
 ```sh
-git clone https://github.com/yourusername/express-app.git
+git clone https://github.com/yourusername/express-app.git](https://github.com/denisqaa/simple-docker-container.git
 cd simple-docker-container
 ```
 
